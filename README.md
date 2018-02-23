@@ -1,10 +1,7 @@
 # MMM-Alexa-X-GoogleAssistant-Simultaneously
 ## One installer for both Google Asistant and Amazon Alexa For MagicMirror²  
 ## Simultaneously run Google Assistant and Alexa on MagicMirror² Raspberry Pi 
-*******************************************************************************************************************************
-### ** Credit for @shivasiddharth  :coffee: :smile:** [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GH3YDCHZ36QN)  
 
-*******************************************************************************************************************************
 ### Note:  
 **Due to the 20th Dec update to Google Assistant SDK, the installation process has remarkably changed. Please Read through this document carefully**  
 **Refer to this video https://youtu.be/vprJBDDYE8Q for critical steps in Google Assistant installation** 
@@ -107,3 +104,32 @@ Open a terminal and execute the following:
 Open a terminal and execute the following:
 ```
 /home/pi/env/bin/python -u /home/pi/GassistPi/src/pushbutton.py --project-id 'replace this with your project id'  --device-model-id 'replace this with the model id'
+
+
+*******************************************************************************************************************************
+### ** Credit for @shivasiddharth  :coffee: :smile:** [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GH3YDCHZ36QN)  
+
+*******************************************************************************************************************************
+
+# Special Thanks
+- Michael Teeuw for creating the awesome MagicMirror2 project that made this module possible.
+- shivasiddharth for making them installed together easier .
+
+The MIT License (MIT)
+=====================
+
+Copyright © 2017 Sebastian Hodapp
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the “Software”), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+**The software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.**
