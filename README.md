@@ -105,6 +105,9 @@ Open a terminal and execute the following:
 ```
 /home/pi/env/bin/python -u /home/pi/GassistPi/src/pushbutton.py --project-id 'replace this with your project id'  --device-model-id 'replace this with the model id'
 
+```
+
+
 
 *******************************************************************************************************************************
 ### ** Credit for @shivasiddharth  :coffee: :smile:** [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GH3YDCHZ36QN)  
