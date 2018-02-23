@@ -1,8 +1,8 @@
-# Assistants-Pi
-## One installer for both Google Asistant and Amazon Alexa   
-## Simultaneously run Google Assistant and Alexa on Raspberry Pi    
+# MMM-Alexa-X-GoogleAssistant-Simultaneously
+## One installer for both Google Asistant and Amazon Alexa For MagicMirror²  
+## Simultaneously run Google Assistant and Alexa on MagicMirror² Raspberry Pi 
 *******************************************************************************************************************************
-### **If you like the work, find it useful and if you would like to get me a :coffee: :smile:** [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GH3YDCHZ36QN)  
+### ** Credit for @shivasiddharth  :coffee: :smile:** [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7GH3YDCHZ36QN)  
 
 *******************************************************************************************************************************
 ### Note:  
