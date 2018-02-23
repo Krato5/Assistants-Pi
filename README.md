@@ -27,6 +27,8 @@ https://github.com/alexa/alexa-avs-sample-app/wiki/Create-Security-Profile
 ***************************************************************
 **Setup Amazon Alexa, Google Assistant or Both**     
 ***************************************************************
+
+- Video Setup here https://www.youtube.com/watch?v=3kgT4OJrevA
 1. Clone the git using:
 ```
 git clone https://github.com/shivasiddharth/Assistants-Pi  
